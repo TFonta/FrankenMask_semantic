@@ -1,4 +1,4 @@
-## FrankenMask: Manipulating Semantic Masks with Transformers For Face Parts Editing
+## FrankenMask: Manipulating Semantic Masks with Transformers
 
 ![alt text](https://github.com/TFonta/FrankenMask_semantic/blob/main/imgs/eyecatcher2.png)
 
