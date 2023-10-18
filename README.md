@@ -1,4 +1,4 @@
-## FrankenMask: Manipulating Semantic Masks with Transformers
+# FrankenMask: Manipulating Semantic Masks with Transformers
 
 ![alt text](https://github.com/TFonta/FrankenMask_semantic/blob/main/imgs/eyecatcher2.png)
 
@@ -10,4 +10,5 @@ tributes.
 > Tomaso Fontanini, Claudio Ferrari, Giuseppe Lisanti, Leonardo Galteri, Stefano Berretti, Massimo Bertozzi, Andrea Prati <br>
 > Elsevier Pattern Recognition Letters
 
+## Requirements
  UNDER CONSTRUCTION!
